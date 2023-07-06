@@ -1,6 +1,6 @@
 {
-  "name": "ets-2023-pdf-audio-tron-bo-10-test",
-  "version": "1.0.0",
+  "name": "ets-2023-full-10-test-pdf-khong-watermark",
+  "version": "1.0.1",
   "description": "Tải trọn bộ bộ đề TOEIC ETS 2023 PDF Audio trọn bộ 10 test, cập nhật mới nhất.",
   "main": "index.js",
   "scripts": {
